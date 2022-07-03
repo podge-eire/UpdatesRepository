@@ -8,6 +8,10 @@ public class UpdatesPracticeApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(UpdatesPracticeApplication.class, args);
+		System.out.println("hello from update repo branch 1");
 	}
+
+
+
 
 }
